@@ -8,9 +8,5 @@ Currently learning Python and programming fundamentals.
 - Logic and problem solving
 - Beginner projects
 
-## Projects
-- Basic calculator in Python
-- Programming exercises in Python
-
 ## Goal
 Become a software developer and build real-world projects.
